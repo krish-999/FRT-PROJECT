@@ -9,7 +9,7 @@
 
 
 **Project Link** - https://witty-tree-0227de000.3.azurestaticapps.net
-** project demo video link** - https://clipchamp.com/watch/A3vi1sdhP42
+** project demo video link** - https://clipchamp.com/watch/F21vW2FCwPZ
 
 
 ## Features and Functionalities 😃
